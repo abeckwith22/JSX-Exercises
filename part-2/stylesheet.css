@@ -1,0 +1,9 @@
+.tweet {
+    background-color: lightblue;
+    color: black;
+    margin-right: 80%;
+}
+
+.tweet * {
+    list-style-type: none;
+}
